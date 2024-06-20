@@ -1,2 +1,2 @@
 # Python-Learning
-Python learning
+This repo contains roadmap to python learninig

@@ -9,7 +9,7 @@ Original file is located at
 #Installing Pyspark
 """
 
-pip install pyspark
+#pip install pyspark
 
 """#Importing libraries"""
 
